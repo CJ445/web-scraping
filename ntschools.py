@@ -47,7 +47,7 @@ class NtschoolsSpider(scrapy.Spider):
                 headers=self.headers)
             yield request
 
-    def parse_school(self, respone):
+    def parse_school(self, response):
         raw_data = response.body
         data = json.loads(raw_data)
         yield {
