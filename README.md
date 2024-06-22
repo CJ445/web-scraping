@@ -11,3 +11,16 @@ Currently the code is facing a server error due to the changes made to the websi
 
 I will be attempting to fix it by learning more about scrapy.
 
+### commands to set up
+
+- download project
+```
+git clone https://github.com/CJ445/web-scraping.git
+cd web-scraping
+code .
+```
+- to run project, open project directory on command prompt and run this:
+```
+scrapy runspider ntschools.py -o all_schools.csv
+```
+
