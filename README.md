@@ -3,7 +3,7 @@
 
 The tutorial that I'm following, [click here](https://youtu.be/Pu3gmdWsLYc)
 <br>
-Currently the code is facing a server error due to the changes made to the website's codebase as compared to the version used in the video. ( The website used in this video - [click here](https://directory.ntschools.net/#/schools)
+Currently the code is facing a server error due to the changes made to the website's codebase as compared to the version used in the video. ( The website used in this video - [click here](https://directory.ntschools.net/#/schools) )
 
 ### Error screenshot
 
